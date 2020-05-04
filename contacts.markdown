@@ -2,6 +2,8 @@
 title: Contact
 permalink: "/contact/"
 layout: page
----
 
-## This is our contact page
+---
+## Контакти
+
+Не се колебайте да се свържете с нас в работно време от Понеделник до Петък от 10.00 до 17.00, или да изпратите съобщение на мейл: adsinf2@yahoo.com
