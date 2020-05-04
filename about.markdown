@@ -2,17 +2,14 @@
 title: About
 permalink: "/about/"
 layout: page
+
 ---
+## About
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Ние сме един малък и сплотен екип от професионалисти които правят уебсайтове през последните 10 години. Програмиране, уеб дизайн, SEO оптимизация и копирайтинг на най-високо ниво. Предпочитаме да работим с динамични сайтове (Wordpress) или със статични сайтове (Jekyll), или изцяло custom решения в зависимост от конкретните нужди на клиента.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Как измерваме успеха?
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Препоръката от устата на нашите доволни клиенти е най-големия стимул за нас да продължим да работим. Когато клиента ни е доволен и има увеличение на приходите си от сайта, тогава и ние сме доволни от добре свършената работа.
 
-
-[jekyll-organization]: https://github.com/jekyll
+**Сайтовете ни са скъпо удоволствие** но клиентите ни препоръчват именно за **top нивото** на предлаганите услуги. 
