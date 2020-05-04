@@ -1,10 +1,12 @@
 ---
-layout: post
 title: The post was added via forestry
-date: 2020-05-04 16:46:00 +0000
-categories: jekyll update
-
+date: 2020-05-04 16:46:00 Z
+categories:
+- jekyll
+- update
+layout: post
 ---
+
 _Горда Стара планина,_
 
 _до ней Дунава синей,_
