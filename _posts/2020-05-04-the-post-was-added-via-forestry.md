@@ -2,7 +2,7 @@
 layout: post
 title: The post was added via forestry
 date: 2020-05-04 16:46:00 +0000
-categories: ''
+categories: jekyll update
 
 ---
 _Горда Стара планина,_
