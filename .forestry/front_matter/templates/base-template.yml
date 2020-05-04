@@ -14,5 +14,3 @@ fields:
 - type: text
   name: layout
   label: layout
-pages:
-- _posts/2020-05-03-the-post-was-added-for-demonstration.md
