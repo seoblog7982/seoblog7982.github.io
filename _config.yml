@@ -9,9 +9,9 @@ collections:
     title: Uploads
     output: true
 email: adsinf2@yahoo.com
-description: Изработка на сайт, SEO оптимизация за google, линк билдинг, графичен дизайн, копирайтинг, content marketing, анализ одит и консултации за бизнес сайтове.
+description: Изработка на сайт, SEO оптимизация за google, линк билдинг, графичен дизайн, копирайтинг, content marketing, анализ, одит и консултации за бизнес сайтове.
 baseurl: ''
-url: ''
+url: 'https://seoblog7982.github.io'
 twitter_username: jekyllrb
 github_username: jekyll
 theme: minima
