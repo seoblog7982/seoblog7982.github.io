@@ -2,6 +2,7 @@
 title: New page
 permalink: "/new-page/"
 layout: page
+published: false
 
 ---
 ## What is Lorem Ipsum?
