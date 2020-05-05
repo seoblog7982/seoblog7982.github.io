@@ -1,5 +1,5 @@
 ---
-title: seoblog7
+title: serp.gr
 timezone: UTC
 collections:
   posts:
@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 email: adsinf2@yahoo.com
-description: Изработка на сайт, SEO оптимизация за google, линк билдинг, графичен дизайн, копирайтинг, content marketing, анализ, одит и консултации за бизнес сайтове.
+description: Κατασκευή ιστοσελίδων, Προώθηση ιστοσελίδων, Ανάλυση ανταγωνισμού, Υπηρεσίες δόμησης συνδέσμων (link building), Συγγραφή  κειμένων για ιστοσελίδες (copywriting), Αύξηση επισκεψιμότητας και branding για να ξεχωρίσετε στο Διαδίκτυο.
 baseurl: ''
 url: 'https://seoblog7982.github.io'
 twitter_username: jekyllrb
