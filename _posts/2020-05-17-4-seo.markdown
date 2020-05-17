@@ -5,7 +5,7 @@ categories:
 - link building
 - προώθηση ιστοσελίδων
 - SEO
-layout: posts
+layout: post
 
 ---
 ## Προώθηση ιστοσελίδων SEO
