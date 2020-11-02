@@ -5,7 +5,7 @@ categories:
 - προώθηση ιστοσελίδων
 - SEO
 - ''
-layout: ''
+layout: post
 
 ---
 ## Υπηρεσίες SEO
